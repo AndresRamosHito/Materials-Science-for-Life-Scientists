@@ -1,0 +1,7 @@
+asset_id,file_name,module,episode,concept,source_type,source_url,creator,license,commercial_allowed,attribution_required,attribution_text,modifications_made,scientific_status,ai_prompt,reviewed_by,storage_location,notes
+M01-E01-0001,,Module 1,Episode 1.1,"Cold open: biological tissue as material",original,,,,,,,,needs_review,,,"Placeholder entry: replace with own tissue/orchid footage or verified microscopy."
+M01-E01-0002,,Module 1,Episode 1.1,"Materials triangle: processing-structure-properties-performance",slide_code,,,,,,,,schematic,,,"Build as SVG or Slidev component; labels should be bilingual."
+M02-E01-0001,,Module 2,Episode 2.1,"Hierarchy ladder: organism to molecule",ai_schematic,,,,,,,,needs_review,,,"Generate text-free base image, then label manually in Slidev."
+M03-E01-0001,,Module 3,Episode 3.1,"Stress-strain curve animation",slide_code,,,,,,,,schematic,,,"Should be generated from code/math, not AI."
+M04-E01-0001,,Module 4,Episode 4.1,"Human manufacturing montage: casting, extrusion, additive manufacturing",stock_video,,,,,,,,stock_broll,,,"Use paid stock or verified free stock. Record exact license before use."
+M10-E01-0001,,Module 10,Episode 10.1,"Orchid viscidium adhesive close-up",original,,,,,,,,verified,,,"Prefer original Orchidarc/lab footage."
