@@ -1,0 +1,23 @@
+{
+  "name": "materials-science-for-life-scientists",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev slides.md --open",
+    "dev:m01e01:en": "slidev slides/M01-E01/slides_en.md --open",
+    "dev:m01e01:es": "slidev slides/M01-E01/slides_es.md --open",
+    "build": "slidev build slides.md",
+    "build:m01e01:en": "slidev build slides/M01-E01/slides_en.md --out dist/M01-E01/en",
+    "build:m01e01:es": "slidev build slides/M01-E01/slides_es.md --out dist/M01-E01/es",
+    "export:m01e01:en": "slidev export slides/M01-E01/slides_en.md --output exports/M01-E01-en.pdf",
+    "export:m01e01:es": "slidev export slides/M01-E01/slides_es.md --output exports/M01-E01-es.pdf"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "playwright-chromium": "latest"
+  },
+  "devDependencies": {}
+}
